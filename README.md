@@ -1,7 +1,7 @@
 # CMStormLeds
  A bit of code written on python to turn on or off the leds of the CMStorm keyboard for linux
  
- Website: http://imagesoftware.tk/software/easy-turn-on-or-off-the-leds-on-your-keyboard/
+ Website: http://imagesoftware.tk/blog/viewpost.php?id=9
  (Please visit the website is better documented)
 
 1.
